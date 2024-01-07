@@ -8,6 +8,9 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
+		"AzureDataLakeStorage2_accountKey": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://moviesdatasa.dfs.core.windows.net/"
 		},
@@ -31,6 +34,12 @@
 		},
 		"horrorHTTP_properties_typeProperties_url": {
 			"value": "https://raw.githubusercontent.com/vetate/project-ETL-Movies-DATAcsv/main/horror.csv"
+		},
+		"HttpUFO_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/vetate/ufo-data/main/ufo-sightings-transformed.csv"
+		},
+		"AzureDataLakeStorage2_properties_typeProperties_url": {
+			"value": "https://moviesdatasa.dfs.core.windows.net/"
 		},
 		"containerUri": {
 			"value": ""
