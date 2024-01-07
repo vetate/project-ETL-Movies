@@ -1,0 +1,12 @@
+{
+	"name": "HttpUFO",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/vetate/ufo-data/main/ufo-sightings-transformed.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
